@@ -8,3 +8,6 @@
     radial-gradient(circle at 1px 1px, rgba(16,185,129,.18) 1px, transparent 0);
   background-size: 26px 26px;
 }
+body {
+  outline: 1px solid red;
+}
