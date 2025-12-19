@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
-html {
-  scroll-behavior: smooth;
+/* nền hạt + glow nhẹ */
+:root { color-scheme: dark; }
+
+.bg-grid {
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(16,185,129,.18) 1px, transparent 0);
+  background-size: 26px 26px;
 }
