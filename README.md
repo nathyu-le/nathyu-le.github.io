@@ -32,4 +32,4 @@ Xem ảnh website chạy local trong thư mục feedback website
 
 Không chỉ dựa vào phiên bản GitHub Pages
 
-EM CHỊU THUAA ANH ƠIIIIIIII!!!!!!!!
+EM CHỊU THUAA GITHUB THẦY ƠIIIIIIII!!!!!!!!
