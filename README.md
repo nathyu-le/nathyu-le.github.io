@@ -8,6 +8,7 @@ Giao diện không giống bản local
 
 Nguyên nhân em nghĩ là do 
 
+chắc do em còn chưa tìm hiêu sâu hơn hoặc tập trung kĩ ở github hoặc lỗi gpt nó báo cho em biết là ở dưới : 
 
 Lỗi cấu hình workflow GitHub Actions
 
